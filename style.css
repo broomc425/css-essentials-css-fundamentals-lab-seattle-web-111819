@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1, nav, figure, p {
+  text-align: center;
+}
+
+a nav {
+  padding: 10px;
+  background-color: grey;
+}
+
+p {
+  width: 800px;
+}
